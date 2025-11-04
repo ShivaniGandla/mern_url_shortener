@@ -49,7 +49,7 @@ This project demonstrates a complete **MERN (MongoDB, Express.js, React, Node.js
 ---
 
 ## 📸 Demo Screenshot
-*(Add a screenshot or short demo GIF of your app in action here)*  
+[🎥 Watch Demo Video](./demo_url_shortener.mp4)
 
 ---
 
